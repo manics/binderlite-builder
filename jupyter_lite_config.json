@@ -1,0 +1,8 @@
+{
+  "LiteBuildConfig": {
+    "extra_file_types": {}
+  },
+  "XeusPythonEnv": {
+    "packages": []
+  }
+}
